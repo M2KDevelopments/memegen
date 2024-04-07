@@ -27,7 +27,7 @@ const MemeGen = require('memegen');
 
 ## Get All the meme options
 ```
-console.log(MemeGen.getMemeOptions())
+console.log(MemeGen.getMemeOptions().length)
 ```
 
 ## Generate Meme Image URL
