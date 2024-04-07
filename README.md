@@ -19,10 +19,10 @@ yarn add memegen
 
 
 # How to use
+
+## Import Library
 ```
-const MemeGen = process.env.API_KEY;
 const MemeGen = require('memegen');
-const lindle = new Lindle(apiKey);
 ```
 
 ## Get All the meme options
