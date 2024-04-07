@@ -1,5 +1,5 @@
 {
-  "name": "memegen",
+  "name": "memegen-m2k",
   "version": "1.0.0",
   "description": "Generate Memes with the help of APIMeme Meme Generator",
   "main": "dist/index.js",

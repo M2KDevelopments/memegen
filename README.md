@@ -10,11 +10,11 @@ Support the official API website <a href="https://apimeme.com/?ref=apilist.fun">
 
 ## Installation
 ```
-npm i memegen --save
+npm i memegen-m2k --save
 ```
 or 
 ```
-yarn add memegen
+yarn add memegen-m2k
 ```
 
 
@@ -22,7 +22,7 @@ yarn add memegen
 
 ## Import Library
 ```
-const MemeGen = require('memegen');
+const MemeGen = require('memegen-m2k');
 ```
 
 ## Get All the meme options
