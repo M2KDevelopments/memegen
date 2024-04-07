@@ -41,5 +41,5 @@ const topText = "When she says no"
 const topBottom = "When he says no" 
 
 // print out image link of the meme
-console.log(MemeGen.generate())
+console.log(MemeGen.generate(meme, topText, topBottom))
 ```
