@@ -1,6 +1,6 @@
 {
   "name": "memegen-m2k",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate Memes with the help of APIMeme Meme Generator",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -29,10 +29,10 @@
     "url": "https://github.com/M2KDevelopments/memegen/issues"
   },
   "homepage": "https://github.com/M2KDevelopments/memegen#readme",
-  "dependencies": {
-    "typescript": "^5.1.6"
-  },
   "devDependencies": {
     "@types/node": "^20.5.3"
+  },
+  "dependencies": {
+    "typescript": "^5.7.2"
   }
 }
